@@ -10,12 +10,18 @@ Chessii/
 ├── .gitignore         
 ├── data/              
 ├── src/               
-│   ├── main.py       
+│   ├── main.py
+|   ├── pieces.py     
 │   ├── ai_engine.py   
 │   ├── board.py       
 │   └── utils.py       
 ├── models/            
-├── tests/             
+├── prototype/
+|   ├── test-1/
+|   |   ├── test1.md
+|   |   ├── main.py
+|   |   ├── pieces.py
+│   |   ├── board.py 
 └── docs/              
 ```
 
